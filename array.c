@@ -5,7 +5,7 @@ int main()
     int n,seach,a[10],i;
     printf("Enter the  number of elements\n");
     scanf("%d",&n);
-    printf("Enter the array elements\n");
+    printf("Enter the array elements");
     for(i=0;i<n;i++)
         scanf("%d",&a[i]);
         printf("Enter the number to be searched\n");
